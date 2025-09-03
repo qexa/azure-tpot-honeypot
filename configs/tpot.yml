@@ -1,0 +1,7 @@
+# Example T-Pot override (illustrative)
+tpot:
+  type: "hive"
+  logging:
+    retention_days: 30
+  security:
+    daily_reboot: "02:42"

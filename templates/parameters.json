@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "vmName": { "value": "vm-tpot-honeypot" },
+    "vmSize": { "value": "Standard_D4s_v3" },
+    "adminUsername": { "value": "tpotadmin" },
+    "sshPublicKey": { "value": "ssh-rsa AAAAB3...replace_me" },
+    "location": { "value": "eastus" }
+  }
+}
