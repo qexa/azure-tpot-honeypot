@@ -1,6 +1,6 @@
 # Security Policy
 
-If you discover a vulnerability, please email **alexander@qexa.com** with subject `[SECURITY] Azure T-Pot`.
+If you discover a vulnerability, please email **info@qexa.com** with subject `[SECURITY] Azure T-Pot`.
 Include a detailed description, steps to reproduce, and potential impact.
 
 **Best practices for operators:**
