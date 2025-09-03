@@ -452,7 +452,6 @@ az deployment group validate --resource-group test-rg --template-file templates/
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/qexa/azure-tpot-honeypot/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/qexa/azure-tpot-honeypot/discussions)
-- 📧 **Email Support**: alexander@qexa.com
 - 💬 **Community Chat**: [Join our Discord](https://discord.gg/qexa-community)
 
 ### Professional Services
@@ -463,7 +462,7 @@ Qexa Technology offers professional services for:
 - SOC integration and training
 - Threat hunting workshops
 
-Contact: [alexander@qexa.com](mailto:alexander@qexa.com)
+Contact: [info@qexa.com](mailto:info@qexa.com)
 
 ### Community Resources
 
